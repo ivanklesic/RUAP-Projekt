@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
 
 
-            Console.Write("Pozdrav iz aplikacije od Ivan Klesic.");
+            Console.Write("Pozdrav iz aplikacije od Ivan Klesic, broj indexa R3652.");
         }
     }
 }
